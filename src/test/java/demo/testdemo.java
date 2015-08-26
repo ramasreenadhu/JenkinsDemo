@@ -8,12 +8,8 @@ public class testdemo {
 	public void test123() {
 		// TODO Auto-generated method stub
 		
-		System.out.println("asdNeeraj thank for being my roomates");
+		System.out.println("hello ...");
 
-		System.out.println("77");
-		
-		System.out.println("äa");
-		
 
 	}
 
